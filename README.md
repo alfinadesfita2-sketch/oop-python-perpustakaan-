@@ -16,5 +16,5 @@ struktur kode modular (dipisahkan dalam beberapa file)
 
 ## cara menjalankan
 ''' bash
-cd Desktop/oop-python-perpustakaan
+cd /oop-python-perpustakaan
 
