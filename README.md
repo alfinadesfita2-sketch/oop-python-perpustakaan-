@@ -6,17 +6,17 @@ Nama: Alfina Desfita
 NIM: 2024150082
 Kelas: 6 smt 4
 
-##Deskripsi
+## Deskripsi
 Program ini merupakan implementasi objektif oriented Programming menggunakan python dengan tema perpustakaan 
 
-#Fitur
+## Fitur
 -menambah data buku ke dalam sistem perpustakaan 
 -menampilkan daftar buku yang tersedia
 -menyimpan status buku (tersedia / dipinjam)
 -menggunakan konsep object-oriented programming (class, object, method)
 -struktur kode modular (dipisahkan dalam beberapa file)
 
-#cara menjalankan 
-</> Bash
-cd desktop/oop -python-perpustakaan
+## cara menjalankan
+</> bash
+cd Desktop/oop-python-perpustakaan
 
